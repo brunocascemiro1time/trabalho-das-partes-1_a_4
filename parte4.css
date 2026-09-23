@@ -26,6 +26,11 @@ h1 {
 p {
     border: 2px solid green;
     width: 180px;
-    height: 25px;
+    height: 27px;
     margin: 5px;
+    font-size: 12px;
+}
+
+.aura{
+    width: 110px;
 }
